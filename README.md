@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🤙 Building Talkie: Talk with Stranger and get Paid for real.
+- 👨‍💻 Building something cool for Cyber Security community.
+- 🔖 Building Talkie: Talk with Stranger and get Paid for real. (postponed)
 - 💸 Creating Productivity tools for Shopify.
 - 💻 I love working on Interesting Ideas 💡
