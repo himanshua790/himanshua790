@@ -5,12 +5,12 @@
 
 <br>
 
-<p align="center"> 
+<!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=himanshua790&label=Profile%20views&color=0e75b6&style=plastic" alt="himanshua790" /> 
 	<a href = "https://commits.top/india.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="himanshua790" target="_blank"/> 
 	</a>
-</p>
+</p> -->
 
 ## :sassy_man: About me
 
@@ -50,7 +50,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="himanshua790's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himanshua790&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshua790&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="himanshua790" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshua790&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="himanshua790" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -59,10 +59,8 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/himanshua790"><img alt="himanshua790's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=himanshua790&custom_title=himanshua790's%20Contribution%20Graph&theme=react-dark" /></a>
+[![Himanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Himanshua790&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
-
-<br/>
 
 ## :trophy: Git profile Trophies
 
