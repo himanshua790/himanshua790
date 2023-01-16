@@ -1,7 +1,10 @@
 <h1 align="center">Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://user-images.githubusercontent.com/46383992/212763828-9540bff8-f0cb-4582-9ae4-32958bf74d4a.png" height="500" width="1300" alt="Generated using Open AI Dalle 2"> 
+<img src="https://user-images.githubusercontent.com/46383992/212765145-5caded3b-7ade-4dd5-9d7b-8c18aede611b.png"  alt="Generated using Open AI Dalle 2"> 
+
+
 <br>
-## :sassy_man: About me
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
 
 - 🪐 Professional Developer
 - :shipit:  Building EdTech Platform for Cybersecurity.
@@ -59,9 +62,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshua790&layout=compact&theme=algolia" alt="himanshua790" /></a> </p>
 
 <br/>
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-
-The code is a reflection of your soul. Think about whether your soul is a piece of shit.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
