@@ -1,5 +1,5 @@
 <h1 align="center">Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://user-images.githubusercontent.com/46383992/212763828-9540bff8-f0cb-4582-9ae4-32958bf74d4a.png" height="500"> 
+<img src="https://user-images.githubusercontent.com/46383992/212763828-9540bff8-f0cb-4582-9ae4-32958bf74d4a.png" height="500" width="1300" alt="Generated using Open AI Dalle 2"> 
 <br>
 ## :sassy_man: About me
 
