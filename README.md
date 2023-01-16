@@ -1,28 +1,20 @@
-<h1 align="center">Hi , I'm Himanshu Soni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SELF+TAUGHT+DEVELOPER;Master+of+None;Problem Solver%20|%20Clean+Coder;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
+<h1 align="center">Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://user-images.githubusercontent.com/46383992/212763828-9540bff8-f0cb-4582-9ae4-32958bf74d4a.png" height="500"> 
 <br>
-
-<!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=himanshua790&label=Profile%20views&color=0e75b6&style=plastic" alt="himanshua790" /> 
-	<a href = "https://commits.top/india.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="himanshua790" target="_blank"/> 
-	</a>
-</p> -->
-
 ## :sassy_man: About me
 
-- :ringed_planet: Professional Developer
-- :ufo: Building EdTech Platform for Cybersecurity.
-- :trophy: Co-Founder of PostedPod [🔗](https://apps.shopify.com/posted-pod)
-- :technologist: I love building things and dream about their success everyday and night.
-- :computer: Techonologist and Problem solver, prefer building robust things, over competitive coding.
-- :motorway: Working with RoaDo, building and maintaining features.
-- :nerd_face: Always `learning new things`
+- 🪐 Professional Developer
+- :shipit:  Building EdTech Platform for Cybersecurity.
+- 🏆 Co-Founder of PostedPod [🔗](https://apps.shopify.com/posted-pod)
+- 🧑‍💻 I love building things and dream about their success everyday and night.
+- 💻 Techonologist and Problem solver, prefer building robust things, over competitive coding.
+- ⛷️ Learning Go, CI/CD and studing system design.
 
 <br>
+
+> Will AI/No-Code take my job in 2023?
+
+**No**. But it might help me migrate code from one framework to another.
 
 ## 🔥 Streak Stats
 
@@ -47,10 +39,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="himanshua790's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himanshua790&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="himanshua790's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himanshua790&show_icons=true&count_private=true&theme=transparent"/></a>
 <br/>
   &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshua790&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="himanshua790" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshua790&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="himanshua790"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -68,8 +60,8 @@
 
 <br/>
 
-<!-- #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-The code is a reflection of your soul. Think about whether your soul is a piece of shit. -->
+The code is a reflection of your soul. Think about whether your soul is a piece of shit.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
